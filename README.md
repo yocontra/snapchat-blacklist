@@ -1,4 +1,8 @@
-snapchat-blacklist
-==================
+These people do not respect the sanctity of the medium.
 
-this is a list of ppl who are evil and screenshot snaps
+## Screenshotters
+
+- hoobdeebla
+- zdsk
+- babygirlmoney
+- gringogidget
