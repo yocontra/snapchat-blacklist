@@ -2,7 +2,6 @@ If somebody screenshots your shit please open a pull request and add them to thi
 
 ## Screenshotters
 
-- hoobdeebla
 - zdsk
 - babygirlmoney
 - gringogidget
